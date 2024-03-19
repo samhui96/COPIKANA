@@ -65,7 +65,7 @@ try:
     temp.close()
     root.iconbitmap("temp.ico")
     os.remove("temp.ico")
-except:
+except ModuleNotFoundError:
     pyperclip.copy("Logo missing")
 
 # Creat frames
