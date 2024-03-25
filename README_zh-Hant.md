@@ -1,7 +1,7 @@
 # COPIKANA
 [English version at README_zh-Hant.md](https://github.com/samhui96/COPIKANA/main/README.md)
 
-COPIKAN建於[pykakasi](https://github.com/miurahr/pykakasi)之上，爲輕型日本漢字至平假名轉換器，並可供離線使用。
+COPIKANA建立於[pykakasi](https://github.com/miurahr/pykakasi)之上，爲輕型日本漢字至平假名轉換器，並可供離線使用。
 
 使用時，先反白選取漢字，再`按右鍵複製‵或按`Ctrl+C`皆可，轉換之結果將隨即顯示。選取方法**以雙按文字反白者爲佳**，以便包括完整詞語，因爲漢字單獨與否，會令日語讀音迥異。由於漢字讀音於日語中千萬變化，本轉換器僅顯示最普通讀法，至於精確讀法，留待日後臻善。以下簡介各式版本，及其介面機關作用。
 
