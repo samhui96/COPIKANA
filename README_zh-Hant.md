@@ -17,7 +17,7 @@ COPIKAN建於[pykakasi](https://github.com/miurahr/pykakasi)之上，爲輕型�
   - 長滑桿：拖動滑子以調節文字大小。
   - 「文」字鍵：按下以變換字型
 
-If you you are happy to use, why not consider adding [the final touch](https://ko-fi.com/s/b8e4f06daa)?
+### 祝君使用愉快，若然欣賞COPIKANA，不妨爲之[「點睛」](https://ko-fi.com/s/b8e4f06daa)
 
 > This repo was inited much later after COPIKANA 1.0 is created, as I found Git/Github is harder than Python to learn 😅
 > 
