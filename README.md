@@ -11,10 +11,10 @@ If you you are happy to use, why not consider adding [the final touch](https://k
 > 
 > If you try to pack COPIKANA into an EXE file, Microsoft Defender may think it is malware 😕 Exempt the folder where you are going to store the executable helps prevent the inconvenience. I'm working on the issue and hopefully it can be solved.
 
-- **v1.0.0**: for those who are already familiar with hiragana.
+- **COPIKANA_1.0**: for those who are already familiar with hiragana.
   - Slider: adjust the font size
 
-- **v1.1.0**: for those who need more hints other than hiragana. Two modes available: the hiragana mode, and the romaji mode which **does not support** the special pronunciations of ‘は’, ‘を’ and extended and rare kana.
+- **COPIKANA_1.1**: for those who need more hints other than hiragana. Two modes available: the hiragana mode, and the romaji mode which **does not support** the special pronunciations of ‘は’, ‘を’ and extended and rare kana.
   - Very short slider: switch between 'hiragana mode' and 'romaji mode'
   - Long slider: adjust the font size
 
