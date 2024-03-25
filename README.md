@@ -1,5 +1,5 @@
 # COPIKANA
-[中文版本請至README_zh-Hant.md](https://github.com/samhui96/COPIKANA/edit/main/README_zh-Hant.md)
+[中文版本請至README_zh-Hant.md](https://github.com/samhui96/COPIKANA/blob/main/README_zh-Hant.md)
 
 COPIKANA is a word converter based on [pykakasi](https://github.com/miurahr/pykakasi) for Japanese leaners, especially for those who are struggling with the pronunciation of kanji. It is a lightweight and offline app that minimise potential distractions.
 
