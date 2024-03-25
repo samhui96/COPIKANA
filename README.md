@@ -17,7 +17,7 @@ Select the word you want to convert and then `right-click & copy` or simply pres
   - Long slider: adjust the font size
   - Button with the character '文': change font
  
- ### If you you are happy to use, why not consider adding [the final touch](https://ko-fi.com/s/b8e4f06daa)?
+ ### If you you are happy to use, why not consider adding [the final touch](https://ko-fi.com/s/b8e4f06daa)? ✨
 
 > This repo was inited much later after COPIKANA 1.0 is created, as I found Git/Github is harder than Python to learn 😅
 > 
