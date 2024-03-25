@@ -1,5 +1,5 @@
 # COPIKANA
-[English version at README_zh-Hant.md](https://github.com/samhui96/COPIKANA/main/README.md)
+[English version at README_zh-Hant.md](https://github.com/samhui96/COPIKANA/blob/main/README.md)
 
 COPIKANA建立於[pykakasi](https://github.com/miurahr/pykakasi)之上，爲輕型日本漢字至平假名轉換器，並可供離線使用。
 
