@@ -3,7 +3,7 @@ COPIKANA is a word converter based on [pykakasi](https://github.com/miurahr/pyka
 
 Select the word you want to convert and then `right-click & copy` or simply press `Ctrl+C`, the most common pronunciation will be shown in the app. **Double click on the kanji to select** is recommended to include the suffix that is critical to decide the pronunciation.
 
-If you you are happy to use, why not consider adding the [final touch](https://ko-fi.com/s/b8e4f06daa)?
+If you you are happy to use, why not consider adding [the final touch](https://ko-fi.com/s/b8e4f06daa)?
 
 > This repo was inited much later after COPIKANA 1.0 is created, as I found Git/Github is harder than Python to learn 😅
 > 
