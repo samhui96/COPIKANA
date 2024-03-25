@@ -15,7 +15,7 @@ COPIKAN建於[pykakasi](https://github.com/miurahr/pykakasi)之上，爲輕型�
 - **COPIKANA_proj**：實驗用，包含最多功能。最新功能可將轉換結果直接傳送至剪貼板，只消`按右鍵貼上‵或按`Ctrl+Ｖ`即可貼上，惟轉換結果無法於模式間變化。
   - 超短滑桿：拖動滑子於「平假名模式」或「羅馬字模式」之間來回切換。
   - 長滑桿：拖動滑子以調節文字大小。
-  - 「文」字鍵：變換字型
+  - 「文」字鍵：按下以變換字型
 
 If you you are happy to use, why not consider adding [the final touch](https://ko-fi.com/s/b8e4f06daa)?
 
