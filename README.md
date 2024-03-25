@@ -1,5 +1,5 @@
 # COPIKANA
-COPIKANA is a word converter for Japanese leaners, especially for those who are struggling with the pronunciation of kanji. It is a lightweight and offline app that minimise potential distraction.
+COPIKANA is a word converter for Japanese leaners, especially for those who are struggling with the pronunciation of kanji. It is a lightweight and offline app that minimise potential distractions.
 
 Select the word you want to convert and then `right-click & copy` or simply press `Ctrl+C`, the most common pronunciation will be shown in the app. **Double click on the kanji to select** is recommended to include the suffix that is critical to decide the pronunciation.
 
